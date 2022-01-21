@@ -1,27 +1,27 @@
-"C:\Users\skim\Desktop\IAR_Example\arm\8.50.6\ST\STM32F1xx\IAR-STM32F103ZE-SK\library\STM32F10x_StdPeriph_Driver\src\stm32f10x_i2c.c"
+"C:\Users\skim\Desktop\IAR_Example\IAR-STM32F103ZE-SK\library\STM32F10x_StdPeriph_Driver\src\stm32f10x_i2c.c"
 -std=c11
 -ferror-limit=0
 -fbracket-depth=512
 -funsigned-char
 -MD
 -MF
-C:\Users\skim\Desktop\IAR_Example\arm\8.50.6\ST\STM32F1xx\IAR-STM32F103ZE-SK\TempSensor_Demo\Flash Debug\Obj\stm32f10x_i2c.pbi.dep
+C:\Users\skim\Desktop\IAR_Example\IAR-STM32F103ZE-SK\TempSensor_Demo\Flash Debug\Obj\stm32f10x_i2c.pbi.dep
 -o
 stm32f10x_i2c.pbi
 -I
-C:\Users\skim\Desktop\IAR_Example\arm\8.50.6\ST\STM32F1xx\IAR-STM32F103ZE-SK\library\STM32F10x_StdPeriph_Driver\src
+C:\Users\skim\Desktop\IAR_Example\IAR-STM32F103ZE-SK\library\STM32F10x_StdPeriph_Driver\src
 -I
-C:\Users\skim\Desktop\IAR_Example\arm\8.50.6\ST\STM32F1xx\IAR-STM32F103ZE-SK\TempSensor_Demo\
+C:\Users\skim\Desktop\IAR_Example\IAR-STM32F103ZE-SK\TempSensor_Demo\
 -I
-C:\Users\skim\Desktop\IAR_Example\arm\8.50.6\ST\STM32F1xx\IAR-STM32F103ZE-SK\TempSensor_Demo\app\
+C:\Users\skim\Desktop\IAR_Example\IAR-STM32F103ZE-SK\TempSensor_Demo\app\
 -I
-C:\Users\skim\Desktop\IAR_Example\arm\8.50.6\ST\STM32F1xx\IAR-STM32F103ZE-SK\TempSensor_Demo\board\
+C:\Users\skim\Desktop\IAR_Example\IAR-STM32F103ZE-SK\TempSensor_Demo\board\
 -I
-C:\Users\skim\Desktop\IAR_Example\arm\8.50.6\ST\STM32F1xx\IAR-STM32F103ZE-SK\TempSensor_Demo\modules\
+C:\Users\skim\Desktop\IAR_Example\IAR-STM32F103ZE-SK\TempSensor_Demo\modules\
 -I
-C:\Users\skim\Desktop\IAR_Example\arm\8.50.6\ST\STM32F1xx\IAR-STM32F103ZE-SK\TempSensor_Demo\..\library\STM32F10x_StdPeriph_Driver\inc\
+C:\Users\skim\Desktop\IAR_Example\IAR-STM32F103ZE-SK\TempSensor_Demo\..\library\STM32F10x_StdPeriph_Driver\inc\
 -I
-C:\Users\skim\Desktop\IAR_Example\arm\8.50.6\ST\STM32F1xx\IAR-STM32F103ZE-SK\TempSensor_Demo\..\library\CMSIS\CM3\DeviceSupport\ST\STM32F10x\
+C:\Users\skim\Desktop\IAR_Example\IAR-STM32F103ZE-SK\TempSensor_Demo\..\library\CMSIS\CM3\DeviceSupport\ST\STM32F10x\
 -I
 C:\Program Files (x86)\IAR Systems\Embedded Workbench 8.4\arm\CMSIS\Core\Include\
 -I
@@ -31,17 +31,17 @@ C:\Program Files (x86)\IAR Systems\Embedded Workbench 8.4\arm\inc
 -I
 C:\Program Files (x86)\IAR Systems\Embedded Workbench 8.4\arm\inc\c
 -I
-C:\Users\skim\Desktop\IAR_Example\arm\8.50.6\ST\STM32F1xx\IAR-STM32F103ZE-SK\TempSensor_Demo
+C:\Users\skim\Desktop\IAR_Example\IAR-STM32F103ZE-SK\TempSensor_Demo
 -I
-C:\Users\skim\Desktop\IAR_Example\arm\8.50.6\ST\STM32F1xx\IAR-STM32F103ZE-SK\TempSensor_Demo\app
+C:\Users\skim\Desktop\IAR_Example\IAR-STM32F103ZE-SK\TempSensor_Demo\app
 -I
-C:\Users\skim\Desktop\IAR_Example\arm\8.50.6\ST\STM32F1xx\IAR-STM32F103ZE-SK\TempSensor_Demo\board
+C:\Users\skim\Desktop\IAR_Example\IAR-STM32F103ZE-SK\TempSensor_Demo\board
 -I
-C:\Users\skim\Desktop\IAR_Example\arm\8.50.6\ST\STM32F1xx\IAR-STM32F103ZE-SK\TempSensor_Demo\modules
+C:\Users\skim\Desktop\IAR_Example\IAR-STM32F103ZE-SK\TempSensor_Demo\modules
 -I
-C:\Users\skim\Desktop\IAR_Example\arm\8.50.6\ST\STM32F1xx\IAR-STM32F103ZE-SK\library\STM32F10x_StdPeriph_Driver\inc
+C:\Users\skim\Desktop\IAR_Example\IAR-STM32F103ZE-SK\library\STM32F10x_StdPeriph_Driver\inc
 -I
-C:\Users\skim\Desktop\IAR_Example\arm\8.50.6\ST\STM32F1xx\IAR-STM32F103ZE-SK\library\CMSIS\CM3\DeviceSupport\ST\STM32F10x
+C:\Users\skim\Desktop\IAR_Example\IAR-STM32F103ZE-SK\library\CMSIS\CM3\DeviceSupport\ST\STM32F10x
 -I
 C:\Program Files (x86)\IAR Systems\Embedded Workbench 8.4\arm\CMSIS\Core\Include
 -I

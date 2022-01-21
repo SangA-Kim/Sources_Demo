@@ -23,9 +23,9 @@
 
 if ($debugfile -eq "")
 {
-& "C:\Program Files (x86)\IAR Systems\Embedded Workbench 8.4\common\bin\cspybat" -f "C:\Users\skim\Desktop\IAR_Example\arm\8.50.6\ST\STM32F1xx\IAR-STM32F103ZE-SK\TempSensor_Demo\settings\Temp_demo.Flash_Debug.general.xcl" --backend -f "C:\Users\skim\Desktop\IAR_Example\arm\8.50.6\ST\STM32F1xx\IAR-STM32F103ZE-SK\TempSensor_Demo\settings\Temp_demo.Flash_Debug.driver.xcl" 
+& "C:\Program Files (x86)\IAR Systems\Embedded Workbench 8.4\common\bin\cspybat" -f "C:\Users\skim\Desktop\IAR_Example\IAR-STM32F103ZE-SK\TempSensor_Demo\settings\Temp_demo.Flash_Debug.general.xcl" --backend -f "C:\Users\skim\Desktop\IAR_Example\IAR-STM32F103ZE-SK\TempSensor_Demo\settings\Temp_demo.Flash_Debug.driver.xcl" 
 }
 else
 {
-& "C:\Program Files (x86)\IAR Systems\Embedded Workbench 8.4\common\bin\cspybat" -f "C:\Users\skim\Desktop\IAR_Example\arm\8.50.6\ST\STM32F1xx\IAR-STM32F103ZE-SK\TempSensor_Demo\settings\Temp_demo.Flash_Debug.general.xcl" --debug_file=$debugfile --backend -f "C:\Users\skim\Desktop\IAR_Example\arm\8.50.6\ST\STM32F1xx\IAR-STM32F103ZE-SK\TempSensor_Demo\settings\Temp_demo.Flash_Debug.driver.xcl" 
+& "C:\Program Files (x86)\IAR Systems\Embedded Workbench 8.4\common\bin\cspybat" -f "C:\Users\skim\Desktop\IAR_Example\IAR-STM32F103ZE-SK\TempSensor_Demo\settings\Temp_demo.Flash_Debug.general.xcl" --debug_file=$debugfile --backend -f "C:\Users\skim\Desktop\IAR_Example\IAR-STM32F103ZE-SK\TempSensor_Demo\settings\Temp_demo.Flash_Debug.driver.xcl" 
 }

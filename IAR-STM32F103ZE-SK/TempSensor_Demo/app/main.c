@@ -133,6 +133,7 @@ Boolean Alarm;
     // Initialization fault
     GLCD_TextSetPos(0,0);
     GLCD_print("\fSTCN75 Init.\r\nfault\r\n");
+    GLCD_print("test\n");
     while(1);
   }
 

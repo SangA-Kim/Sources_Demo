@@ -239,5 +239,6 @@ Int16S Temp;
 
   *pTemp = (Flo32)Temp;
   *pTemp /= 256.0;
+  
   return(TRUE);
 }
