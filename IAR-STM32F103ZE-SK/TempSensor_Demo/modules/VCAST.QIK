@@ -1,0 +1,49 @@
+--  QuickParse File Version: QP_DROP_CTOR_TESTABLE_INCLUDES  --
+HOME_DIRECTORY C:\Users\skim\Desktop\IAR_Example\arm\8.50.6\ST\STM32F1xx\IAR-STM32F103ZE-SK\TempSensor_Demo\modules
+BEGIN_RECORD glcd_ll.c
+CHECKSUM  1147583955
+BLACKLIST FALSE
+DEFINED_OBJECTS
+   AtomicExchange
+   EntrCritSection
+   ExtCritSection
+   GLCD_Backlight
+   GLCD_LLInit
+   GLCD_SPI_ChipSelect
+   GLCD_SPI_Init
+   GLCD_SPI_ReceiveBlock
+   GLCD_SPI_SendBlock
+   GLCD_SPI_SetWordWidth
+   GLCD_SPI_TranserByte
+   GLCD_SetReset
+   __LDRBT
+   __LDRHT
+   __LDRT
+   __REVSH
+   __STRBT
+   __STRHT
+   __STRT
+   __iar_uint16_read
+   __iar_uint16_write
+   __iar_uint32_read
+   __iar_uint32_write
+CALLED_OBJECTS
+   GPIO_Init
+   GPIO_PinRemapConfig
+   GPIO_WriteBit
+   RCC_APB1PeriphClockCmd
+   RCC_APB1PeriphResetCmd
+   RCC_APB2PeriphClockCmd
+   RCC_APB2PeriphResetCmd
+   TIM_ARRPreloadConfig
+   TIM_Cmd
+   TIM_InternalClockConfig
+   TIM_OC2Init
+   TIM_TimeBaseInit
+STATIC_MEMBERS_DECLARED
+STATIC_MEMBERS_NEEDED
+GLOBAL_OBJECTS_NEEDED
+   CriticalSecCntr
+   ITM_RxBuffer
+GLOBAL_OBJECTS_DEFINED
+END_RECORD glcd_ll.c

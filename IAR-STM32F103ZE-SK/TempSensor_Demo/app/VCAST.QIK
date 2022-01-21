@@ -1,0 +1,94 @@
+--  QuickParse File Version: QP_DROP_CTOR_TESTABLE_INCLUDES  --
+HOME_DIRECTORY C:\Users\skim\Desktop\IAR_Example\arm\8.50.6\ST\STM32F1xx\IAR-STM32F103ZE-SK\TempSensor_Demo\app
+BEGIN_RECORD Terminal_18_24x12.c
+CHECKSUM 3653845597
+BLACKLIST FALSE
+DEFINED_OBJECTS
+   AtomicExchange
+   EntrCritSection
+   ExtCritSection
+   __LDRBT
+   __LDRHT
+   __LDRT
+   __REVSH
+   __STRBT
+   __STRHT
+   __STRT
+   __iar_uint16_read
+   __iar_uint16_write
+   __iar_uint32_read
+   __iar_uint32_write
+CALLED_OBJECTS
+STATIC_MEMBERS_DECLARED
+STATIC_MEMBERS_NEEDED
+GLOBAL_OBJECTS_NEEDED
+   CriticalSecCntr
+   ITM_RxBuffer
+GLOBAL_OBJECTS_DEFINED
+   Terminal_18_24_12
+END_RECORD Terminal_18_24x12.c
+BEGIN_RECORD iar_logo.c
+CHECKSUM  2523905683
+BLACKLIST FALSE
+DEFINED_OBJECTS
+   AtomicExchange
+   EntrCritSection
+   ExtCritSection
+   __LDRBT
+   __LDRHT
+   __LDRT
+   __REVSH
+   __STRBT
+   __STRHT
+   __STRT
+   __iar_uint16_read
+   __iar_uint16_write
+   __iar_uint32_read
+   __iar_uint32_write
+CALLED_OBJECTS
+STATIC_MEMBERS_DECLARED
+STATIC_MEMBERS_NEEDED
+GLOBAL_OBJECTS_NEEDED
+   CriticalSecCntr
+   ITM_RxBuffer
+GLOBAL_OBJECTS_DEFINED
+   IAR_Logo
+   IAR_LogoStream
+END_RECORD iar_logo.c
+BEGIN_RECORD temp_sensor_drv.c
+CHECKSUM 3749789784
+BLACKLIST FALSE
+DEFINED_OBJECTS
+   AtomicExchange
+   EntrCritSection
+   ExtCritSection
+   TempSensorGetTemp
+   TempSensorShutdown
+   TempSensor_Conf
+   TempSensor_Init
+   __LDRBT
+   __LDRHT
+   __LDRT
+   __REVSH
+   __STRBT
+   __STRHT
+   __STRT
+   __iar_uint16_read
+   __iar_uint16_write
+   __iar_uint32_read
+   __iar_uint32_write
+CALLED_OBJECTS
+   GPIO_Init
+   GPIO_ReadInputDataBit
+   I2C2_Close
+   I2C2_DataTransfer
+   I2C2_Open
+   RCC_APB2PeriphClockCmd
+   RCC_APB2PeriphResetCmd
+STATIC_MEMBERS_DECLARED
+STATIC_MEMBERS_NEEDED
+GLOBAL_OBJECTS_NEEDED
+   CriticalSecCntr
+   ITM_RxBuffer
+GLOBAL_OBJECTS_DEFINED
+END_RECORD temp_sensor_drv.c

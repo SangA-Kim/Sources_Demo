@@ -1,0 +1,28 @@
+--  QuickParse File Version: QP_DROP_CTOR_TESTABLE_INCLUDES  --
+HOME_DIRECTORY C:\Users\skim\Desktop\IAR_Example\arm\8.50.6\ST\STM32F1xx\IAR-STM32F103ZE-SK\library\CMSIS\CM3\DeviceSupport\ST\STM32F10x
+BEGIN_RECORD system_stm32f10x.c
+CHECKSUM  1423615839
+BLACKLIST FALSE
+DEFINED_OBJECTS
+   SystemCoreClockUpdate
+   SystemInit
+   __LDRBT
+   __LDRHT
+   __LDRT
+   __REVSH
+   __STRBT
+   __STRHT
+   __STRT
+   __iar_uint16_read
+   __iar_uint16_write
+   __iar_uint32_read
+   __iar_uint32_write
+CALLED_OBJECTS
+STATIC_MEMBERS_DECLARED
+STATIC_MEMBERS_NEEDED
+GLOBAL_OBJECTS_NEEDED
+   ITM_RxBuffer
+GLOBAL_OBJECTS_DEFINED
+   AHBPrescTable
+   SystemCoreClock
+END_RECORD system_stm32f10x.c
