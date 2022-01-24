@@ -139,6 +139,7 @@ Boolean Alarm;
 
   while(1)
   {
+    GLCD_print("main while\n");
     if (SysTickFl)
     {
       SysTickFl = FALSE;
